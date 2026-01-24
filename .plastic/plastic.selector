@@ -1,0 +1,4 @@
+repository "JuegoMovil2D/JuegoMovil2D@20067526410599@cloud"
+  path "/"
+    br "/main"
+    co "/main"

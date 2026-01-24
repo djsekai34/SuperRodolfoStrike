@@ -1,0 +1,1 @@
+C:\Users\djsek\Desktop\Videojuegos\Unity\Motores\JuegoMovil2D\JuegoMovil2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1pk6t4ez\obj\arm64-v8a

@@ -1,0 +1,1 @@
+C:\Users\manana\Desktop\Unity\JuegoMovil2D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\3zsa334y\obj\arm64-v8a
