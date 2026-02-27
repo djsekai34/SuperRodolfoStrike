@@ -118,4 +118,4 @@ Mecánica tipo *tirachinas* optimizada para pantallas táctiles usando el **nuev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-jimenez-villena/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djsekai34)
-[![Web](https://img.shields.io/badge/Página_Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://djsekai34.github.io/Afterbit/)
+[![Web](https://img.shields.io/badge/Página_Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://afterbit.vercel.app)
