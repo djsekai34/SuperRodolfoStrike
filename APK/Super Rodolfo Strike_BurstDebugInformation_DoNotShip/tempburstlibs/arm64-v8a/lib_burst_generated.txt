@@ -10,7 +10,7 @@ Library: C:\Users\djsek\Desktop\Videojuegos\Unity\Motores\JuegoMovil2D\JuegoMovi
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\djsek\Desktop\Videojuegos\Unity\Motores\JuegoMovil2D\JuegoMovil2D\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.60f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.66f2/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=C:\Users\djsek\Desktop\Videojuegos\Unity\Motores\JuegoMovil2D\JuegoMovil2D\Library\Burst
 --output=C:\Users\djsek\Desktop\Videojuegos\Unity\Motores\JuegoMovil2D\JuegoMovil2D\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
